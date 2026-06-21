@@ -17,10 +17,10 @@ Each folder represents a topic or a day of learning.
 
 Example:
 
-Day-01-Basic-Structure
-Day-02-Headings-and-Paragraphs
-Day-03-Lists
-Day-04-Links-and-Images
+meta-tags
+headings-and-paragraphs
+self-closing-tags
+Day-04-Links-andmages
 Day-05-Tables
 
 ## 🎯 Objectives
@@ -40,7 +40,7 @@ Day-05-Tables
 
 * [x] Meta Tags
 * [x] Headings and Paragraphs
-* [ ] Self Closing Tags
+* [x] Self Closing Tags
 
 ## 🌱 Learning Status
 
