@@ -10,6 +10,7 @@ This repository contains my notes, practice code, and examples while learning HT
 * Headings
 * Paragraphs
 * Self Closing Tags
+* Text Formatting Tags
 
 ## 📂 Repository Structure
 
@@ -20,8 +21,7 @@ Example:
 meta-tags
 headings-and-paragraphs
 self-closing-tags
-Day-04-Links-andmages
-Day-05-Tables
+text-formatting-tags
 
 ## 🎯 Objectives
 
@@ -41,6 +41,7 @@ Day-05-Tables
 * [x] Meta Tags
 * [x] Headings and Paragraphs
 * [x] Self Closing Tags
+* [ ] Text Formatting Tags
 
 ## 🌱 Learning Status
 
