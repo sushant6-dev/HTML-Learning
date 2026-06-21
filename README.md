@@ -9,17 +9,7 @@ This repository contains my notes, practice code, and examples while learning HT
 * HTML Document Structure
 * Headings
 * Paragraphs
-* Text Formatting
-* Lists
-* Links
-* Images
-* Tables
-* Forms
-* Semantic HTML
-* Audio and Video
-* HTML Entities
-* Iframes
-* HTML5 Elements
+* Self Closing Tags
 
 ## 📂 Repository Structure
 
@@ -48,15 +38,9 @@ Day-05-Tables
 
 ## 📈 Progress
 
-* [x] HTML Document Structure
-* [ ] Headings and Paragraphs
-* [ ] Lists
-* [ ] Links
-* [ ] Images
-* [ ] Tables
-* [ ] Forms
-* [ ] Semantic HTML
-* [ ] HTML5 Features
+* [x] Meta Tags
+* [x] Headings and Paragraphs
+* [ ] Self Closing Tags
 
 ## 🌱 Learning Status
 
